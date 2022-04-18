@@ -1,3 +1,3 @@
-module tcode.tmeoa.com/wuhan_group/code/ciroytest
+module github.com/Ciroygo/ciroytest
 
 go 1.17
